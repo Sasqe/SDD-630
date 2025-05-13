@@ -2,6 +2,9 @@
 
 - This is Activity 1...
 
+## Gitlab Website
+Here's a sentence with a footnote. [^1]
+
 Cheers! :beers:
 
 ## Fruits
@@ -66,3 +69,6 @@ classDiagram
         +run()
     }
 ```
+
+
+[^1]: Doctor Smith, "Lost In Space", 2006.
