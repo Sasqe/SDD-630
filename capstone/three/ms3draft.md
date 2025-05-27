@@ -121,7 +121,9 @@ This architecture ensures that any developer can clearly understand the data flo
 ![Technologies](<image.png>)
 
 **Physical Solution Design**
+
 ![Solution](<image2.png>)
+
 **Detailed Technical Design**
 
 **General Technical Approach**
