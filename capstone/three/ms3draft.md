@@ -148,13 +148,12 @@ This architecture ensures that any developer can clearly understand the data flo
 
 **Flow Charts/Process Flows:**
 
-\[Insert applicable flowcharts or UML activity diagrams. Flowcharts should document algorithms or workflows that will be implemented in the program.\]
-
 **Sitemap Diagram**
+
 ![Solution](<image3.png>)
 
-
 **User Interface Diagrams**
+
 ![UI1](<image4.png>)
 ![UI2](<image5.png>)
 
