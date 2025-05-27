@@ -191,8 +191,7 @@ _Reports_
 
 **Appendix A – Technical Issue and Risk Log**
 
-| RISK MANAGEMENT |     |     |     |     |
-| --- |     |     |     |     | --- | --- | --- | --- |
+| RISK MANAGEMENT |
 | **Event Risk** | **Risk Probability**<br><br>**(high, medium, low)** | **Risk Impact** | **Risk Mitigation** | **Contingency Plan** |
 | --- | --- | --- | --- | --- |
 | What is the risk? | What is the probability? | What is the impact if the risk occurs? | What can be done to minimize the risk? | What can be done to minimize the impact of the risk? |
@@ -210,8 +209,7 @@ _Reports_
 | High-traffic overloads backend | Low | Service outages/performance issues | Use auto-scaling features in the cloud to handle increased traffic dynamically. | Temporarily throttle incoming requests or deploy a load balancer to distribute traffic efficiently. |
 | --- | --- | --- | --- | --- |
 
-| ISSUES LOG |     |     |     |     |     |     |     |     |
-| --- |     |     |     |     |     |     |     |     | --- | --- | --- | --- | --- | --- | --- | --- |
+| ISSUES LOG | 
 | **ID** | **Description** | **Project Impact** | **Action Plan/Resolution** | **Owner** | **Importance** | **Date Entered** | **Date to Review** | **Date Resolved** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1   | What is the issue? | How will this impact scope, schedule, and cost? | How do you intend to deal with this issue? | Who manages this issue? | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
