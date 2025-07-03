@@ -1,157 +1,41 @@
-# Activity 7  
+# Activity 8  
 **Chris King**  
 Grand Canyon University  
 SDD-630 Mobile Software Development  
 Professor Estey  
-June 25, 2025 
-
----
-# 7.1 – Identify Application Developer Roles
-
-## Part 1 – Four Roles in Software Development
-
-### Product Manager  
-- **Service Provided**: Oversees the product roadmap, prioritizes features, aligns development goals with business objectives, and ensures that user needs are addressed.  
-- **Education/Experience**: Typically holds a degree in business, computer science, or a related field, with experience in agile product development and stakeholder communication.  
-- **Strengths**: Strategic thinking, cross-functional leadership, communication, and ability to balance technical constraints with business priorities.
-
-### Designer  
-- **Service Provided**: Creates wireframes, mockups, and UX flows to ensure the interface is intuitive, visually appealing, and accessible.  
-- **Education/Experience**: Background in graphic design, UX/UI, or HCI. Experience with design tools like Figma or Adobe XD is essential.  
-- **Strengths**: Visual creativity, empathy for users, accessibility awareness, and fluency in human-centered design principles.
-
-### Front-End Developer  
-- **Service Provided**: Implements the user interface and ensures interactive features function correctly across platforms. In TARS, this includes the canvas for digit input and live neural network visualization.  
-- **Education/Experience**: Degree in computer science or related field; strong skills in JavaScript, React, and mobile responsiveness.  
-- **Strengths**: UI/UX implementation, DOM manipulation, state management, and performance tuning.
-
-### Back-End Developer  
-- **Service Provided**: Builds and maintains the API, handles inference logic, preprocessing, and integrates the PyTorch model for prediction.  
-- **Education/Experience**: Proficient in Python, FastAPI, PyTorch, and containerization. Background in backend or ML system design.  
-- **Strengths**: API design, database integration, deployment pipelines, and ML model integration.
-
-## Part 2 – Comparing Software Development Roles
-
-- **Outsourcable Roles**: Designers and Front-End Developers can be outsourced or hired on a contract basis, especially during non-core phases like UI polishing.  
-- **Combined Roles**: Front-End and Designer roles can be merged for small teams, as can Product Manager and Back-End Developer in early-stage prototypes.  
-- **Most Expensive to Fill**: Product Manager and Back-End Developer roles are typically the most expensive due to strategic responsibility and specialized technical skills, respectively.  
-- **Minimal vs. Critical**: For the TARS mobile app, all four roles are critical. The educational AI component requires clear UI, fast backend inference, and strategic product design.  
-- **My Role Fit**: I’m most likely to fill the Back-End Developer role. I have experience with FastAPI, PyTorch, Docker, and backend API design. I also contribute heavily to the overall architecture and technical direction of the project.
-
-# 7.2 - Internal Employee Requisition
-
-**Job Title**: Mobile Back-End Developer  
-**Department**: AI Mobile Application Development  
-**Hiring Manager**: Chris King  
-**Purpose of the Role**:  
-To design, implement, and maintain the server-side logic for the TARS mobile application. This role ensures smooth communication between the front-end interface and the PyTorch-based digit recognition model containerized and hosted in the cloud. The position will support future scalability, low-latency performance, and high accuracy.
-
-**Requisition Reason**:  
-Newly created position due to expansion of King AI and it's revolutionary artificial intelligence system, TARS.
-
-**Salary Range**:  
-$50,000 – $65,000 annually, plus a $1000 signing bonus.
-
-**Job Start Date**:  
-August 5, 2025
-
-**FTE/Weekly Hours**:  
-Full-Time (40 hours/week)
-
-**Duration**:  
-Permanent
-
-**Contract Type**:  
-Employee
-
-**Required Qualifications**:  
-- Bachelor’s degree in Computer Science or related field  
-- 3+ years of Python backend development experience  
-- Proficiency with FastAPI, Docker, REST API design, and cloud computing
-- Familiarity with PyTorch or similar ML frameworks  
-
-**Budget**:  
-Funding has been secured and approved as part of the Q3 AI product expansion budget.
-
-# 7.3 – Evaluate Sample Job Postings
-
-## [Posting 1 – Poor Example](https://www.indeed.com/viewjob?jk=cdf075ebfb29bd28&from=shareddesktop_copy)   
-**Job Title**: Full Stack Developer – AI Trainer  
-**Company**: DataAnnotation  
-
-**Issues Identified**:  
-- Lacks clarity on actual development tasks vs. evaluation work  
-- Overly broad and vague qualification list (laundry list of languages)  
-- No clear structure or formatting: responsibilities, benefits, and qualifications are all mixed together  
-- Payment via PayPal is unprofessional for contract roles with hourly rates  
-- No company background or context provided  
-
-**Improvement Suggestions**:  
-- Add a job summary to clarify scope (e.g., AI testing, not full development)  
-- Organize content into clear sections (Responsibilities, Qualifications, Benefits)  
-- Replace vague language with specific expectations and tools used  
-- Introduce the company and explain the purpose of the project  
-- Use a professional payment method or payroll service  
+July 2, 2025 
 
 ---
 
-## [Posting 2 – Strong Example](https://www.linkedin.com/jobs/view/4253830587)  
-**Job Title**: Software Engineer II  
-**Company**: Honeywell  
+### 8.1 – Evaluation of Apple’s Predictions About Future Technology
 
-**Strengths**:  
-- Strong job summary with impact, purpose, and growth opportunities  
-- Clearly defined responsibilities and expectations  
-- Distinct sections for qualifications (must-have vs. nice-to-have)  
-- Comprehensive benefits package and job stability  
-- Includes company background, location, and hybrid work structure  
+After watching *Apple’s Future Computer: The Knowledge Navigator* (1987) and *Your World, Your Newton* (1993), it’s clear how ahead of their time Apple was. In the Knowledge Navigator video, Apple predicted a world where the internet is as ubiquitous and seamless as phone service, something we barely even think about using. They showed a professor interacting with a digital assistant through natural conversation, accessing files and research data in real-time, managing his calendar, and video-calling a colleague on the fly. This is shockingly similar to many of GPT-4o's newer capabilities in just the recent months. In the Newton video, Apple imagined a PDA-like device that could handle handwriting recognition, scheduling, translations, and even wireless messaging, basically the early blueprint of a smartphone.
 
-**Why It Excels**:  
-This posting is well-structured, informative, and professional. It communicates not just the job scope, but also the value of the role within the company’s mission. It follows best practices by including required experience, desired traits, and benefits that matter to candidates. This clarity is likely to attract qualified applicants who understand exactly what the job entails.
+A few of the predictions were surprisingly accurate. The idea of accessing files from anywhere exists as cloud storage today. cloud storage providers like Google Drive, iCloud, and Dropbox are a part of everyday life.  Intelligent agents exist now as Siri, Alexa, and Google Assistant, even if they’re still a little rough around the edges (Siri). Seamless internet usage became a reality. We’re constantly connected without even thinking about it. The video call shown in the Knowledge Navigator video looks almost exactly like what we do with Zoom or FaceTime now. As a matter of fact, facial video calls are just part of every-day work for most people. And the voice-based scheduling and data retrieval is pretty close to what AI assistants attempt to do, even if it's not always perfect. But it's important to compare what AI is capable of today, compared to just a few years ago.
+
+But not everything aged well. The “assistant” in the Knowledge Navigator was portrayed as a humanoid avatar in a bowtie, basically a floating butler. That part didn’t translate into real life. Users preferred minimal interfaces and voice responses over an animated character taking up screen space. You can see this in Siri's animation updates over the years, from taking up the whole screen to simply highlighting the edges of the screen in a flash of color. Similarly, the Apple Newton, the actual product, failed commercially. Its handwriting recognition was inconsistent, it was expensive, and the technology just wasn’t ready yet. It had the right vision, but the execution wasn’t there. The market wasn’t prepared either, mobile computing wasn’t in high demand yet, and the Newton felt more like a prototype than a real tool.
+
+One thing Apple didn’t quite predict was the scale of mobile phone adoption and how central phones would become in our lives. The videos still framed personal computing as something tied to home offices or tablets, not tiny devices we carry in our pockets everywhere we go, to the point where most feel quite literally nude and vulnerable if they forget their phone somewhere. They also didn’t anticipate the social media explosion, the rise of mobile gaming, or the app ecosystem as we know it. While they nailed a lot of the technical ideas, the human behavior side of the prediction was more limited, they focused on work and productivity but missed the entertainment and social side that defines so much of modern mobile use.
+
+Overall, these videos show Apple was thinking way ahead of the curve. Even if some concepts didn’t hit the mark, the vision was clear: a future where computing becomes natural, invisible, and tightly woven into everyday life. And looking at where we are today, a lot of that future actually happened — just not always in the form Apple imagined.
+
+### 8.2 – Evaluation of the Current Technology Trends in TARS
+
+My mobile application, Project TARS, is built around digit recognition and neural network visualization, a blend of educational tech and interactive AI. Looking at the latest Stack Overflow Developer Survey, I’d say the tech stack I’ve chosen mostly aligns with current trends. For the backend, I’m using Python and PyTorch, both of which remain some of the most popular and well-loved technologies in the ML/AI space. Python consistently ranks near the top in terms of usage and developer preference, especially for data science, machine learning, and automation. For the frontend, I plan to use Swift for the iOS version, and that aligns with current trends too, Swift ranks high among mobile developers for its performance and safety features.
+
+The React-based web client is also in line with broader trends. According to the survey, React remains one of the most dominant frontend libraries. It’s well-supported, flexible, and ideal for the responsive, cross-device interface I want for the web version of TARS. I'm also using Tailwind for styling, which is gaining traction fast. I might be slightly ahead of the curve with some of the neural visualization and canvas interactions I'm implementing, but that’s intentional. This app is meant to stand out as an educational tool, not just blend in.
+
+Looking ahead five years, I anticipate a few key updates. First, the AI models behind the digit recognition will likely get smaller and more efficient, making them easier to run locally on-device. That means I may eventually offer offline support or hybrid inference depending on the device. Second, I expect to add a 3D neural network visualization layer once devices and browsers are better optimized for real-time rendering. Third, I may introduce live collaboration features for classrooms or study groups, meaning the backend will need secure multi-user session support.
+
+As far as cost estimation goes, based on the textbook’s guidance, maintaining and updating this mobile application over five years can run around 15–25% of the initial development cost per year. Assuming a modest initial development investment of $50,000 (factoring in design, backend, frontend, and testing), annual maintenance might range between $7,500 and $12,500. That would bring the five-year total to around $37,500 to $62,500. Of course, this would be under the assumption that I am extremely aggressive with the expansion of the app, the number of platforms supported, the possible hiring of developers, and whether AI model hosting is handled through cloud services or moved to edge devices. However, with the current scope of TARS, the estimated costs are likely to be a lot lower, ideally under $100 a year.
+
+All in all, I think Project TARS is well-positioned to ride the current trends while still leaving room for innovation. The key will be keeping the tech stack modern without chasing every fad, and focusing on what actually improves the learning experience for the user.
 
 
-# 7.4 – Job Posting and Evaluation
+### 8.3 – Evaluation of the Likelihood of Success or Failure of Emerging Mobile Technologies
 
-## Job Posting: Front-End Developer – Project TARS (Mobile App)
+Out of the predictions discussed in the course readings, I think the integration of AI and on-device intelligence is the most likely to succeed. According to the ValueCoders article, AI is rapidly transforming mobile apps by enabling real-time translation, behavioral analysis, and intelligent UI enhancements. I see this playing out already in apps that can detect fraud, predict user actions, or deliver personalized recommendations. For my mobile application, Project TARS, which focuses on digit recognition and neural network visualization, this trend hits home. I’m already using machine learning models in the backend, but over time, the goal is to transition that functionality to the device itself. That’s exactly what these AI trends are pointing toward, smarter, more responsive, and more private apps that don’t need to ping the cloud every time they perform a task.
 
-### Job Title  
-Front-End Developer – React JS (Mobile AI Application)
+Another prediction I think has legs is the growth of 5G-enabled apps, as highlighted in the *App Developer Magazine* article. Faster speeds and lower latency open the door for experiences that weren’t feasible before, high-res streaming, real-time multiplayer collaboration, and even AR/VR-heavy apps. The article’s point about a surge in new device purchases triggering an “app-alanche” also makes sense. People always explore new capabilities when they upgrade phones, and the rollout of 5G will likely spark a new wave of discovery. For TARS, this could mean offering higher-fidelity visualizations or real-time collaboration features once 5G becomes more widespread across schools and homes.
 
-### Job Summary  
-We are seeking a Front-End Developer to join the team behind Project TARS, a mobile AI-driven digit recognition app. You will be responsible for building and optimizing the interactive UI, including canvas-based drawing input, responsive layout, and real-time neural network visualizations. This role is ideal for developers passionate about delivering high-performance, cross-platform user experiences in the education and AI space.
-
-### Responsibilities  
-- Develop and maintain the mobile UI using React JS and Canvas APIs  
-- Integrate with backend APIs and websockets for inference and real-time feedback  
-- Implement responsive design across various devices and screen sizes  
-- Optimize rendering performance for animation-heavy features  
-- Collaborate closely with designers, backend developers, and product stakeholders
-
-### Qualifications  
-**Minimum**:  
-- Bachelor’s degree in Computer Science or related field  
-- 2+ years of React or React Native development experience  
-- Proficiency in JavaScript, TypeScript, and component-based architecture  
-- Experience with JSON data and basic model architectures
-- Experience with mobile layout responsiveness and Canvas-based rendering  
-
-**Preferred**:  
-- Familiarity with AI/ML application integration  
-- Experience using Figma, CanvasJS, or animation libraries  
-- Understanding of accessibility and performance profiling
-
-### Benefits  
-- Salary range: $50,000 – $65,000  
-- Flexible hours and remote-friendly  
-- PTO, parental leave, and healthcare stipend  
-- Opportunity to work on a high-visibility educational AI app  
-- Exposure to real-time neural network visualization tech
-
-### About Us  
-Project TARS is an educational mobile app that helps users learn how neural networks work by allowing them to draw digits and see how AI processes the input. At King AI, we’re a fast-moving, innovation-focused team passionate about accessible AI education. Our culture values autonomy, continuous learning, and clean design.
-
----
-
-## Job Posting Evaluation
-
-This job description aligns with the best practices taught in the course readings. The title clearly states the role and target technologies (React). The summary explains the app, its purpose, and why the role matters. Responsibilities are outcome-oriented and relevant to the project. Qualifications are split into minimum and preferred, which helps set realistic expectations. The benefits section adds detail beyond just salary, including culture and growth. This posting was customized for Project TARS and is focused on attracting candidates who care about mobile performance, interactivity, and educational impact.
+On the other hand, I’m more skeptical of the long-term viability of zero-friction, ad-heavy user acquisition strategies. The same article from *App Developer Magazine* suggested that users will be more open to playable ads or instant demos because of improved 5G bandwidth. That might be true for mobile games or retail apps, but in an educational context, especially with a tool like TARS, interruptive or ad-driven experiences can work against the product’s goals. Educational users want a clean, focused UI that respects their time and cognitive load. Even if playable ads work technically, they may not make sense for every vertical. I’m also hesitant to rely on app discovery trends driven by new device ownership, since the article mentioned that the number of users willing to install new apps is actually declining, a contradiction worth noting.
