@@ -17,7 +17,7 @@ But not everything aged well. The “assistant” in the Knowledge Navigator was
 
 One thing Apple didn’t quite predict was the scale of mobile phone adoption and how central phones would become in our lives. The videos still framed personal computing as something tied to home offices or tablets, not tiny devices we carry in our pockets everywhere we go, to the point where most feel quite literally nude and vulnerable if they forget their phone somewhere. They also didn’t anticipate the social media explosion, the rise of mobile gaming, or the app ecosystem as we know it. While they nailed a lot of the technical ideas, the human behavior side of the prediction was more limited, they focused on work and productivity but missed the entertainment and social side that defines so much of modern mobile use.
 
-Overall, these videos show Apple was thinking way ahead of the curve. Even if some concepts didn’t hit the mark, the vision was clear: a future where computing becomes natural, invisible, and tightly woven into everyday life. And looking at where we are today, a lot of that future actually happened — just not always in the form Apple imagined.
+Overall, these videos show Apple was thinking way ahead of the curve. Even if some concepts didn’t hit the mark, the vision was clear: a future where computing becomes natural, invisible, and tightly woven into everyday life. And looking at where we are today, a lot of that future actually happened, just not always in the form Apple imagined.
 
 ### 8.2 – Evaluation of the Current Technology Trends in TARS
 
